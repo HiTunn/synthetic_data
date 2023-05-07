@@ -13,6 +13,7 @@ git clone https://github.com/RiddlerQ/simple_image_download
 cd simple_image_download/simple_image_download
 
 ```
+## Step 3
 **copy** img_download.py and **paste in folder simple_image_download/simple_image_download**
 
 Download font [here](https://fonts.google.com/)
